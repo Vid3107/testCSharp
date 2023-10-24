@@ -1,0 +1,10 @@
+C:\Users\navid\OneDrive\Desktop\testCSharp\TestCShaprGitHub\bin\Debug\TestCShaprGitHub.exe.config
+C:\Users\navid\OneDrive\Desktop\testCSharp\TestCShaprGitHub\bin\Debug\TestCShaprGitHub.exe
+C:\Users\navid\OneDrive\Desktop\testCSharp\TestCShaprGitHub\bin\Debug\TestCShaprGitHub.pdb
+C:\Users\navid\OneDrive\Desktop\testCSharp\TestCShaprGitHub\obj\Debug\TestCShaprGitHub.csproj.AssemblyReference.cache
+C:\Users\navid\OneDrive\Desktop\testCSharp\TestCShaprGitHub\obj\Debug\TestCShaprGitHub.navid_folder.navid.resources
+C:\Users\navid\OneDrive\Desktop\testCSharp\TestCShaprGitHub\obj\Debug\TestCShaprGitHub.Properties.Resources.resources
+C:\Users\navid\OneDrive\Desktop\testCSharp\TestCShaprGitHub\obj\Debug\TestCShaprGitHub.csproj.GenerateResource.cache
+C:\Users\navid\OneDrive\Desktop\testCSharp\TestCShaprGitHub\obj\Debug\TestCShaprGitHub.csproj.CoreCompileInputs.cache
+C:\Users\navid\OneDrive\Desktop\testCSharp\TestCShaprGitHub\obj\Debug\TestCShaprGitHub.exe
+C:\Users\navid\OneDrive\Desktop\testCSharp\TestCShaprGitHub\obj\Debug\TestCShaprGitHub.pdb
